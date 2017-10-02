@@ -21,7 +21,7 @@ Launching on your own project:
 
     ```
     $ cd ~/desktop
-    $ virtualenv -p python 3 knockenv && cd knockenv
+    $ virtualenv -p python 3.6 knockenv && cd knockenv
     $ source bin/activate
     ```
 2. Clone project:
